@@ -10,7 +10,7 @@ command-not-found==0.3
 cryptography==2.6.1
 cupshelpers==1.0
 distro-info==0.18
-Django==2.1.7
+Django==2.2.10
 django-cors-headers==2.4.0
 django-filter==2.0.0
 djangorestframework==3.9.2
