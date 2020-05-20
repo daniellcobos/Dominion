@@ -16,7 +16,7 @@ django-filter==2.0.0
 djangorestframework==3.9.2
 djangorestframework-jwt==1.11.0
 entrypoints==0.2.3.post3
-httplib2==0.11.3
+httplib2==0.18.0
 idna==2.6
 isort==4.3.15
 kazam==1.4.5
